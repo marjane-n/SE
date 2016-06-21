@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gomrok", "WindowsFormsApplication2\gomrok.csproj", "{0971F8E5-2A5C-48D2-B95B-521394D5FA01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gomrokTests", "gomrokTests\gomrokTests.csproj", "{EA318A5F-A1AC-4019-AB5D-74F172BEFB90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0971F8E5-2A5C-48D2-B95B-521394D5FA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0971F8E5-2A5C-48D2-B95B-521394D5FA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0971F8E5-2A5C-48D2-B95B-521394D5FA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0971F8E5-2A5C-48D2-B95B-521394D5FA01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA318A5F-A1AC-4019-AB5D-74F172BEFB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA318A5F-A1AC-4019-AB5D-74F172BEFB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA318A5F-A1AC-4019-AB5D-74F172BEFB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA318A5F-A1AC-4019-AB5D-74F172BEFB90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

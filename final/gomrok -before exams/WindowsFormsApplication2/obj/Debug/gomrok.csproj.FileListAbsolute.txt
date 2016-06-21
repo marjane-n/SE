@@ -1,0 +1,388 @@
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S510\Downloads\Telegram Desktop\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.addLicense.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.licenseDesp.resources
+C:\Users\aIDA\Downloads\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\aIDA\Downloads\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\aIDA\Downloads\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.addLicense.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.licenseDesp.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-kuft\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.addLicense.resources
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.licenseDesp.resources
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\S510\Documents\GitHub\software\SE\gomrok\gomrok\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.addLicense.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.licenseDesp.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.rule_good.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.createRules.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok_marjane\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenses_to_rule.resources
+E:\gomrok_marjane\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\gomrok_marjane\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\gomrok_marjane\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\gomrok_marjane\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+E:\gomrok_marjane\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+E:\gomrok_marjane\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+E:\gomrok_marjane\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+E:\gomrok_marjane\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+E:\gomrok_marjane\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+E:\gomrok_marjane\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+E:\gomrok_marjane\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.addLicense.resources
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenses_to_rule.resources
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.createRules.resources
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.licenseDesp.resources
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.rule_good.resources
+E:\gomrok_marjane\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicense.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenseMat.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenses_to_rule.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.createRules.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.rule_good.resources
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\sara\Documents\Visual Studio 2013\Projects\gomrok\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicense.resources
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenseMat.resources
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenses_to_rule.resources
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.createRules.resources
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.rule_good.resources
+C:\Users\S510\Desktop\gomrok - backup2\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicense.resources
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenseMat.resources
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenses_to_rule.resources
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.createRules.resources
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.rule_good.resources
+C:\Users\S510\Desktop\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicense.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenseMat.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenses_to_rule.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.createRules.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.rule_good.resources
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+J:\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+J:\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+J:\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+J:\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+J:\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+J:\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+J:\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+J:\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+J:\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+J:\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+J:\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicense.resources
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenseMat.resources
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenses_to_rule.resources
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.createRules.resources
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.rule_good.resources
+J:\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicense.resources
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenseMat.resources
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenses_to_rule.resources
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.createRules.resources
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.rule_good.resources
+C:\Users\S510\Desktop\45\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicense.resources
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenseMat.resources
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenses_to_rule.resources
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.createRules.resources
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.rule_good.resources
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.csprojResolveAssemblyReference.cache
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.test.resources
+C:\Users\S510\Desktop\46\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.test1.resources
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicense.resources
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenseMat.resources
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenses_to_rule.resources
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.createRules.resources
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.rule_good.resources
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.test.resources
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.test1.resources
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\47\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.addGood.resources
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicense.resources
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenseMat.resources
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.addLicenses_to_rule.resources
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.createDeclaration.resources
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.createRules.resources
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.login.resources
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.register.resources
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.rule_good.resources
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.test.resources
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.test1.resources
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\gomrok.csproj.GenerateResource.Cache
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\current\gomrok -before exams\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

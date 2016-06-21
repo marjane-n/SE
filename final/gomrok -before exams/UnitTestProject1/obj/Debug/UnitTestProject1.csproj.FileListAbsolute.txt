@@ -1,0 +1,47 @@
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-3\gomrok\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-3\gomrok\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-3\gomrok\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-3\gomrok\UnitTestProject1\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-3\gomrok\UnitTestProject1\bin\Debug\System.Data.SQLite.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-3\gomrok\UnitTestProject1\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-3\gomrok\UnitTestProject1\bin\Debug\System.Data.SQLite.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-3\gomrok\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\gomrok-3\gomrok\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\S510\Desktop\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\S510\Desktop\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\UnitTestProject1\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\UnitTestProject1\bin\Debug\System.Data.SQLite.dll
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\UnitTestProject1\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\UnitTestProject1\bin\Debug\System.Data.SQLite.xml
+C:\Users\aIDA\Documents\Visual Studio 2013\Projects\45\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+J:\45\gomrok -before exams\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+J:\45\gomrok -before exams\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+J:\45\gomrok -before exams\UnitTestProject1\bin\Debug\WindowsFormsApplication2.exe
+J:\45\gomrok -before exams\UnitTestProject1\bin\Debug\System.Data.SQLite.dll
+J:\45\gomrok -before exams\UnitTestProject1\bin\Debug\WindowsFormsApplication2.pdb
+J:\45\gomrok -before exams\UnitTestProject1\bin\Debug\System.Data.SQLite.xml
+J:\45\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+J:\45\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+J:\45\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\S510\Desktop\46\gomrok -before exams\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\S510\Desktop\46\gomrok -before exams\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\S510\Desktop\46\gomrok -before exams\UnitTestProject1\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\46\gomrok -before exams\UnitTestProject1\bin\Debug\System.Data.SQLite.dll
+C:\Users\S510\Desktop\46\gomrok -before exams\UnitTestProject1\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Desktop\46\gomrok -before exams\UnitTestProject1\bin\Debug\System.Data.SQLite.xml
+C:\Users\S510\Desktop\46\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\S510\Desktop\46\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\S510\Desktop\46\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\S510\Desktop\current\gomrok -before exams\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\S510\Desktop\current\gomrok -before exams\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\S510\Desktop\current\gomrok -before exams\UnitTestProject1\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\S510\Desktop\current\gomrok -before exams\UnitTestProject1\bin\Debug\System.Data.SQLite.dll
+C:\Users\S510\Desktop\current\gomrok -before exams\UnitTestProject1\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\S510\Desktop\current\gomrok -before exams\UnitTestProject1\bin\Debug\System.Data.SQLite.xml
+C:\Users\S510\Desktop\current\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\S510\Desktop\current\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\S510\Desktop\current\gomrok -before exams\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
